@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=1NB7abYceXA&list=PLba-ZvOQ-JvO0LQKmjghmY9LSWJsc6
 COMO CREAR MAPAS PROPIOS CON INFO DESDE GOOGLEMAPS
 https://community.powerbi.com/t5/Desktop/Create-Your-Own-Custom-Map-for-Power-BI/td-p/165854
 
+#correr R scripts en Power BI
 #graficos varios
 https://powerbi.microsoft.com/es-es/blog/power-bi-desktop-april-2018-feature-summary/
 
