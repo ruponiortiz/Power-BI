@@ -18,6 +18,8 @@ Notas: video explicativo de como correr un archivo R.
 
 https://www.youtube.com/watch?v=SMaJf6UBKeI
 Notas: integracion de un modelo predictivo usando la librería forecast
+https://www.youtube.com/watch?v=tTFF1QQJG7U
+Notas: AUN NO VISTO (caso estudio de forecasting)
 
 #graficos varios
 https://powerbi.microsoft.com/es-es/blog/power-bi-desktop-april-2018-feature-summary/
