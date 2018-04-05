@@ -16,6 +16,9 @@ Notas: -tener instalado el R
   https://www.youtube.com/watch?v=yF04SIXfKis
 Notas: video explicativo de como correr un archivo R.
 
+https://www.youtube.com/watch?v=SMaJf6UBKeI
+Notas: integracion de un modelo predictivo usando la librería forecast
+
 #graficos varios
 https://powerbi.microsoft.com/es-es/blog/power-bi-desktop-april-2018-feature-summary/
 
