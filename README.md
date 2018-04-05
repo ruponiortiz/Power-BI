@@ -10,6 +10,12 @@ COMO CREAR MAPAS PROPIOS CON INFO DESDE GOOGLEMAPS
 https://community.powerbi.com/t5/Desktop/Create-Your-Own-Custom-Map-for-Power-BI/td-p/165854
 
 #correr R scripts en Power BI
+  https://docs.microsoft.com/en-us/power-bi/desktop-r-scripts
+Notas: -tener instalado el R
+-cargar explicitamente las librerias a utilizar y si es otro archivo, ocupar la funcion source().
+  https://www.youtube.com/watch?v=yF04SIXfKis
+Notas: video explicativo de como correr un archivo R.
+
 #graficos varios
 https://powerbi.microsoft.com/es-es/blog/power-bi-desktop-april-2018-feature-summary/
 
