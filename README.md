@@ -24,5 +24,8 @@ Notas: AUN NO VISTO (caso estudio de forecasting)
 #graficos varios
 https://powerbi.microsoft.com/es-es/blog/power-bi-desktop-april-2018-feature-summary/
 
+#proyecto realizado con POWERBI + R
+https://github.com/Ruud-Janssen/ChessLeagueCup
+
 
 
