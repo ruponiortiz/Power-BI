@@ -29,3 +29,10 @@ https://github.com/Ruud-Janssen/ChessLeagueCup
 
 
 
+#para la ralizacion de consultas se utiliza el lenguaje M
+
+#casos practicos
+https://github.com/rpertusalopez/sessions/
+
+
+
