@@ -27,7 +27,8 @@ https://powerbi.microsoft.com/es-es/blog/power-bi-desktop-april-2018-feature-sum
 #proyecto realizado con POWERBI + R
 https://github.com/Ruud-Janssen/ChessLeagueCup
 
-
+#pluging IMAGE_VIEWER
+http://blog.pragmaticworks.com/power-bi-custom-visuals-image-viewer
 
 #para la ralizacion de consultas se utiliza el lenguaje M
 
