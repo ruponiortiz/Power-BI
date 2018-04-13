@@ -6,7 +6,6 @@ Material para aprender Power BI
 https://www.youtube.com/watch?v=vrbKOvxWeDY&index=1&list=PLEy6Omomtm3GiqsQIGfI0zM3HahgPy2_t 
 #caso practico(panel de futbol con fotos)
 https://www.youtube.com/watch?v=Yl9VEY-zkYk
-https://www.youtube.com/watch?v=1NB7abYceXA&list=PLba-ZvOQ-JvO0LQKmjghmY9LSWJsc6YaF&index=1
 
 COMO CREAR MAPAS PROPIOS CON INFO DESDE GOOGLEMAPS
 https://community.powerbi.com/t5/Desktop/Create-Your-Own-Custom-Map-for-Power-BI/td-p/165854
@@ -38,4 +37,6 @@ http://blog.pragmaticworks.com/power-bi-custom-visuals-image-viewer
 https://github.com/rpertusalopez/sessions/
 
 
+#power pivot(NoAplica)
+https://www.youtube.com/watch?v=1NB7abYceXA&list=PLba-ZvOQ-JvO0LQKmjghmY9LSWJsc6YaF&index=1
 
