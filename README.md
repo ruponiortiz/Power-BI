@@ -17,6 +17,7 @@ Notas: -tener instalado el R
 -cargar explicitamente las librerias a utilizar y si es otro archivo, ocupar la funcion source().
   https://www.youtube.com/watch?v=yF04SIXfKis
 Notas: video explicativo de como correr un archivo R.
+*****DESCARGAR LOS CODIGOS NECESARIOS PARA PODER REALIZAR EL TUTORIAL.
 
 https://www.youtube.com/watch?v=SMaJf6UBKeI
 Notas: integracion de un modelo predictivo usando la librería forecast
