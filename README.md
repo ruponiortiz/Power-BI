@@ -7,7 +7,8 @@ https://www.youtube.com/watch?v=vrbKOvxWeDY&index=1&list=PLEy6Omomtm3GiqsQIGfI0z
 #caso practico(panel de futbol con fotos)
 https://www.youtube.com/watch?v=Yl9VEY-zkYk
 
-COMO CREAR MAPAS PROPIOS CON INFO DESDE GOOGLEMAPS
+#como crear mapas
+https://docs.microsoft.com/en-us/power-bi/desktop-shape-map
 https://community.powerbi.com/t5/Desktop/Create-Your-Own-Custom-Map-for-Power-BI/td-p/165854
 
 #correr R scripts en Power BI
