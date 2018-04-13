@@ -2,8 +2,10 @@
 Material para aprender Power BI
 
 #tutoriales power BI
+#INTRO
+https://www.youtube.com/watch?v=vrbKOvxWeDY&index=1&list=PLEy6Omomtm3GiqsQIGfI0zM3HahgPy2_t 
+
 https://www.youtube.com/watch?v=Yl9VEY-zkYk
-https://www.youtube.com/watch?v=vrbKOvxWeDY&index=1&list=PLEy6Omomtm3GiqsQIGfI0zM3HahgPy2_t
 https://www.youtube.com/watch?v=1NB7abYceXA&list=PLba-ZvOQ-JvO0LQKmjghmY9LSWJsc6YaF&index=1
 
 COMO CREAR MAPAS PROPIOS CON INFO DESDE GOOGLEMAPS
