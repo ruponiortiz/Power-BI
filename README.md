@@ -38,6 +38,9 @@ http://blog.pragmaticworks.com/power-bi-custom-visuals-image-viewer
 #casos practicos
 https://github.com/rpertusalopez/sessions/
 
+#visualizaciones
+app.poerbi.com/visuals
+
 
 #power pivot(NoAplica)
 https://www.youtube.com/watch?v=1NB7abYceXA&list=PLba-ZvOQ-JvO0LQKmjghmY9LSWJsc6YaF&index=1
