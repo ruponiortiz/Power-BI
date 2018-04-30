@@ -1,6 +1,10 @@
 # Power-BI
 Material para aprender Power BI
 
+#documentacion y preguntas frecuentes del power bi
+https://docs.microsoft.com/en-us/power-bi/desktop-common-query-tasks
+
+
 #tutoriales power BI
 #INTRO
 https://www.youtube.com/watch?v=vrbKOvxWeDY&index=1&list=PLEy6Omomtm3GiqsQIGfI0zM3HahgPy2_t 
