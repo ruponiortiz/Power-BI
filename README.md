@@ -6,6 +6,8 @@ https://docs.microsoft.com/en-us/power-bi/desktop-common-query-tasks
 
 
 #tutoriales power BI
+#canal con varios ejemplos
+https://www.youtube.com/channel/UCjXOFYvkPNqwYBmcZ97uFkA/videos
 #INTRO
 https://www.youtube.com/watch?v=vrbKOvxWeDY&index=1&list=PLEy6Omomtm3GiqsQIGfI0zM3HahgPy2_t 
 #caso practico(panel de futbol con fotos)
