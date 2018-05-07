@@ -49,3 +49,8 @@ app.poerbi.com/visuals
 #power pivot(NoAplica)
 https://www.youtube.com/watch?v=1NB7abYceXA&list=PLba-ZvOQ-JvO0LQKmjghmY9LSWJsc6YaF&index=1
 
+#powerpivot y power bi
+https://www.youtube.com/watch?v=EoDbezYlOE0
+resumen:caso practico de crear un panel en PBI
+partes importantes: MIN 53 crear consulta en blanco y con Lenguaje M crear unos valores.
+
