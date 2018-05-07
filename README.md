@@ -8,6 +8,8 @@ https://docs.microsoft.com/en-us/power-bi/desktop-common-query-tasks
 #tutoriales power BI
 #canal con varios ejemplos
 https://www.youtube.com/channel/UCjXOFYvkPNqwYBmcZ97uFkA/videos
+#explicacion de mapas
+https://www.youtube.com/watch?v=w4p0EHlf1P0&list=PL6MvWRhf3XPR-_B56qPxK-LXCk6d2aklk&index=16
 #INTRO
 https://www.youtube.com/watch?v=vrbKOvxWeDY&index=1&list=PLEy6Omomtm3GiqsQIGfI0zM3HahgPy2_t 
 #caso practico(panel de futbol con fotos)
@@ -55,4 +57,11 @@ https://www.youtube.com/watch?v=1NB7abYceXA&list=PLba-ZvOQ-JvO0LQKmjghmY9LSWJsc6
 https://www.youtube.com/watch?v=EoDbezYlOE0
 resumen:caso practico de crear un panel en PBI
 partes importantes: MIN 53 crear consulta en blanco y con Lenguaje M crear unos valores.
+
+#excel
+#creacion KPI con power pivot
+https://www.youtube.com/watch?v=565_cZkTMnk
+
+
+#
 
